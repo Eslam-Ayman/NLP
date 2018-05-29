@@ -20,9 +20,5 @@ The second model we used is MultinomialNB from the library sklearn, this is the 
 The last model we used is the LogisticRegression from linear_model from the library sklearn, this model differ from the Naive Bayes that the features weight takes features dependence into account first we tried with the default parameters. then we changed the iteration number and the multiclass parameters
 
 <h2>Results</h2>
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/4/48/Logistic.png">
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/1/1c/LogesticInputTest.PNG">
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/8/87/NaiveBayes.PNG">
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/0/08/NaiveBayes_model.PNG">
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/a/ac/SVM.PNG">
-<img width="45%" src="http://fci.helwan.edu.eg/w/images/d/d2/SVM_input_test.PNG">
+<img src="http://fci.helwan.edu.eg/w/images/0/08/NaiveBayes_model.PNG">
+<img src="http://fci.helwan.edu.eg/w/images/a/ac/SVM.PNG">
